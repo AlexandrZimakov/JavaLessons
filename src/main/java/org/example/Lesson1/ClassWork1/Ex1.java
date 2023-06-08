@@ -6,7 +6,7 @@ public class Ex1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        System.out.println("zadanie1(n) = " + zadanie1(n));
+        System.out.println("zadanie1 = " + zadanie1(n));
     }
 
     private static int zadanie1(int n) {
